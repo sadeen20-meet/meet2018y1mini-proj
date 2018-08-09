@@ -11,6 +11,7 @@ import random #We'll need this later in the lab
 
 turtle.tracer(1,0) #This helps the turtle move more smoothly
 
+
 SIZE_X=1000
 SIZE_Y=1000
 turtle.setup(SIZE_X, SIZE_Y) #Curious? It's the turtle window  
